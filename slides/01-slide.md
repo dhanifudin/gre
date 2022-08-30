@@ -40,28 +40,28 @@ to evaluate the prediction.
 
 ## Answer
 
-The author insists that Sunnyside Corporation should change their showerheads
-that can restrict maximum water flow throughout all twelve buildings. The author
-argues the change will increase profits without any serious problem due to the
-cost saving. However, in my perspective the argument is flawed and needs to
-provide more evidence to strengthen the claim.
-
-The author needs to provide evidence to support the claim that the change will
-bring no problems. According to the reading, there are a few complaints about
-low water pressure. However, it's possible that the problem will arrise because
-complaints collected are only for a month. The author can't make a prediction
-before the exact number of complaints collected.
-
-Moreover, there are possible differences between the condition of all buildings.
-The remaining nine buildings may be at high altitude and the changes may result
-in increased complaints about low pressure. In addition, there are no data about
-water usage for all buildings. Water usage at the same time can cause water low
-pressure.
-
-In conclusion, the author gives the unwarranted claim that Sunnyside Corporation
-should expand the modification of showerheads to all buildings. To strengthen
-argument, the author should provide evidence and gather more data regarding
-water pressure factor.
+> The author insists that Sunnyside Corporation should change their showerheads
+> that can restrict maximum water flow throughout all twelve buildings. The author
+> argues the change will increase profits without any serious problem due to the
+> cost saving. However, in my perspective the argument is flawed and needs to
+> provide more evidence to strengthen the claim.
+>
+> The author needs to provide evidence to support the claim that the change will
+> bring no problems. According to the reading, there are a few complaints about
+> low water pressure. However, it's possible that the problem will arrise because
+> complaints collected are only for a month. The author can't make a prediction
+> before the exact number of complaints collected.
+>
+> Moreover, there are possible differences between the condition of all buildings.
+> The remaining nine buildings may be at high altitude and the changes may result
+> in increased complaints about low pressure. In addition, there are no data about
+> water usage for all buildings. Water usage at the same time can cause water low
+> pressure.
+>
+> In conclusion, the author gives the unwarranted claim that Sunnyside Corporation
+> should expand the modification of showerheads to all buildings. To strengthen
+> argument, the author should provide evidence and gather more data regarding
+> water pressure factor.
 
 ---
 
